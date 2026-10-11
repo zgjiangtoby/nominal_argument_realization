@@ -1,6 +1,6 @@
-# Nominal argument realization
+# LLM Role Expectations and Paired Argument Realization in Spanish Nominalizations
 
-Companion code for *LLM Role Expectations and Paired Argument Realization in Spanish Nominalizations*, manuscript version 11 October 2026 (eight-page main text). Run the commands from this directory.
+The code for *LLM Role Expectations and Paired Argument Realization in Spanish Nominalizations*.
 
 Extract linked agent/patient pairs from AnCora, measure role-referent recovery, and compare realization models under document and lemma holdouts.
 
